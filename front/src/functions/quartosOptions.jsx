@@ -1,0 +1,20 @@
+export const quartosOptions = [
+  'Quarto',
+  'Cozinha',
+  'Sala de Estar',
+  'Sala de Jantar',
+  'Banheiro',
+  'Lavabo',
+  'Escritório',
+  'Área de Serviço',
+  'Varanda',
+  'Sacada',
+  'Garagem',
+  'Piscina',
+  'Churrasqueira',
+  'Área de Festa',
+  'Jardim',
+  'Quarto de Empregada',
+  'Despensa',
+  'Closet'
+]
